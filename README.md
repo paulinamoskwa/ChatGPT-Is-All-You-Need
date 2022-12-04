@@ -15,3 +15,11 @@ properly.
 
 A big thank you to the tremendous work of OpenAI's ChatGPT team, the official
 content generation tool for this repo.
+
+# Q&A 
+* [What is **contrastive learning?**](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_What-is-contrastive-learning.md)
+* [Can you give me an example of contrastive learning in python?](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_Can-you-give-me-an-example-of-contrastive-learning-in-python.md)
+* [What is **knowledge distillation?**](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_What-is-knowledge-distillation.md)
+* [Can you give me an example of knowledge distillation in python?](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_Can-you-give-me-an-example-of-knowledge-distillation-in-python.md)
+* [What is **out of distribution detection?**](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_What-is-out-of-distribution-detection.md)
+* [Can you give me an example of out of distribution detection in python?](https://github.com/PaulinoMoskwa/ChatGPT-Is-All-You-Need/blob/master/Q%26A/General_Can-you-give-me-an-example-of-out-of-distribution-detection-in-python.md)
