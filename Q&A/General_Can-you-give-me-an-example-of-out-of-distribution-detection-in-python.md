@@ -1,4 +1,4 @@
-# Can you give me an example of out of distribution in python?
+# Can you give me an example of out of distribution detection in python?
 
 Here is a simple example of out-of-distribution detection in python using the
 Keras library.
