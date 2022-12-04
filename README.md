@@ -1,4 +1,4 @@
-The mood when you want to delve into a new topic, so you ask some search
+The mood when you want to delve into a new topic, so you ask a search
 engine for an ✨ *easy and understandable definition* ✨ but, instead, you end
 up with tons of technical definitions, papers, proofs and advanced code?
 
