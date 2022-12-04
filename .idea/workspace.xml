@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63bd159b-d91b-49ab-8d16-fd44bff29c6f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Q&amp;A/General_Can-you-give-me-an-example-of-out-of-distribution-detection-in-python.md" beforeDir="false" afterPath="$PROJECT_DIR$/Q&amp;A/General_Can-you-give-me-an-example-of-out-of-distribution-detection-in-python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
